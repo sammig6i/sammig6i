@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sammig6i.sammig6i"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sammig6i.sammig6i" />
 <!--
 **sammig6i/sammig6i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
