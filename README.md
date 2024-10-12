@@ -8,7 +8,7 @@
 
 <br/>
 
-🔭 I am currently building my tech consulting & software development company **Ghazzawi Tech**
+🔭 I am currently building my tech consulting business **Ghazzawi Tech**
 
 🌱 I am learning **Go, Deep Learning, how to build a business**
 
