@@ -25,5 +25,27 @@
  <a href="https://linkedin.com/in/sammighazzawi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+<a href="https://sammig6i.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+</a>
 </div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,python,javascript,typescript,express,firebase,postgres,c,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,flask,react,mui,html,css,vscode,github,figma,tailwind,git" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sammig6i/sammig6i/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
