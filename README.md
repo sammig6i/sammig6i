@@ -51,13 +51,16 @@
 </div>
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-sammig6i.vercel.app/api?username=sammig6i&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sammig6i.vercel.app/api/top-langs/?username=sammig6i&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sammig6i&theme=violet-punch&hide_border=true)](https://git.io/streak-stats)
+ 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammig6i&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammig6i&theme=midnight-purple&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <br/><br/>
@@ -67,7 +70,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/sammig6i' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/sammig6i' target='_blank'>
+  <img height='64' style='border:0px;height:64px;filter: hue-rotate(270deg) saturate(200%);' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 </div>
 
 <br/>
