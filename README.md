@@ -14,4 +14,5 @@
 
 💬 Ask me about **Python, Data Pipelines, Postgres... or anything [here](https://github.com/sammig6i/sammig6i/issues)
 
+⚡️ Fun fact I played basketball my whole life and bleed Purple and YelloW (LA Lakers)
 
