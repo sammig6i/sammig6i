@@ -71,7 +71,7 @@
 
 <div align="center">
 <a href='https://ko-fi.com/sammig6i' target='_blank'>
-  <img height='64' style='border:0px;height:64px;filter: hue-rotate(270deg) saturate(200%);' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
 
