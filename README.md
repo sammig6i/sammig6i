@@ -14,5 +14,5 @@
 
 💬 Ask me about **Python, Data Pipelines, Postgres... or anything [here](https://github.com/sammig6i/sammig6i/issues)
 
-⚡️ Fun fact I own the bobblheads of the 06 Lakers starting five
+⚡️ Fun fact I own the bobbleheads of the 05-06 Lakers starting five
 
