@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sammig6i)](https://git.io/streak-stats)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sammig6i.sammig6i" />
  
 <h1 align="center">
